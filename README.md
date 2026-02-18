@@ -1,4 +1,4 @@
-# Rusty-Bucket-Official-Website<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
 <title>Welkom to maiy cool webshit!!!!!</title>
@@ -77,58 +77,6 @@ h1{
        <iframe width="560" height="315" src="https://www.youtube.com/embed/1IQG5L7IaL4?si=VrD5reIYf0CBDd62" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="youtube-container"></iframe>
        <iframe width="560" height="315" src="https://www.youtube.com/embed/J3QnVZCrO9Y?si=ZhHId4u7HRn0e9j0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="youtube-container"></iframe>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/TsOueOpvnNk?si=SNmRzEBGATp9Zj8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="youtube-container"></iframe>
-        </div>
-    </body>
-</html>
-<!DOCTYPE html>
-<html>
-    <head>
-<title>PEPINO</title>
-<style>
-    body{
-        background-image: url(pepinobg.png);
-        background-repeat: repeat;
-        background-size: 15%;
-    }
-    h1{
-    text-align: center;
-}
-.aero-glass {
-  backdrop-filter: blur(7px);
-  background-color: hsla(219, 100%, 50%, 0.144); 
-  border: 1px solid rgba(1, 68, 194, 0.3);
-  padding: 20px;
-  color: white;
-  margin-left: 10%;
-    margin-right: 10%;
-    background-image: url(refraction.png);
-    background-repeat: no-repeat;
-    background-size: 100%;
-    background-attachment: fixed;
-    border-radius: 25px;
-    box-shadow: inset 1px 1px 1px 1px rgba(139, 199, 255, 0.281);
-    }
-    .youtube-container {
-  border-radius: 16px;
-  overflow: hidden;
-  box-shadow: 0 0 20px rgba(0,0,0,0.2);
-}
-</style>
-    </head>
-    <body>
-        <div class="aero-glass">
-            <table style="width: 100%;">
-                <tr>
-                    <td>
-<p>page 2/2</p>
-                    </td>
-                    <td>
-<a href="cool_website.html"><img src="arrow left.png" alt="" style="width: 3%; float: right;"></a>
-                    </td>
-                </tr>
-            </table>
-            <h1>PEPINO</h1>
-            <video src="PEOPINO.webm" controls width="100%"></video>
         </div>
     </body>
 </html>
